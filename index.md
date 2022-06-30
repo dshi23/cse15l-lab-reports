@@ -1,4 +1,4 @@
 # Hello world!
 ## heading2
-_bold_
+_italic_
 **bold**
